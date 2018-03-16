@@ -1,0 +1,52 @@
+body, html {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .row {
+    height: 100px;
+    width: 100%;
+  }
+  
+  .rowbig {
+    height: 200px;
+    width: 100%;
+  }
+  
+  .row1 {
+    background-color: lightgray;
+    padding: 25px;
+    box-sizing: border-box;
+  }
+  
+  .row1div {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(48, 115, 192);
+  }
+  
+  .row2 {
+    background-color: white;
+    box-sizing: border-box;
+    padding: 50px;
+  }
+  
+  p {
+    font-family: "Times New Roman", Times, serif;
+  }
+
+  .row3 {
+    background-color: rgb(52, 106, 167);
+  }
+  
+  .row4 {
+    background-color: rgb(28, 121, 101);
+  }
+  
+  .row5 {
+    background-color: rgb(96, 146, 46);
+  }
+  
+  .row6 {
+    background-color: rgb(184, 172, 50);
+  }
